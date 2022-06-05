@@ -16,10 +16,10 @@ export const SkillsData = [
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>,
       },
-      {
-        name: "NextJs",
-        icon: <i class="devicon-nextjs-original colored"></i>,
-      },
+      // {
+      //   name: "NextJs",
+      //   icon: <i class="devicon-nextjs-original colored"></i>,
+      // },
       {
         name: "MaterialUi",
         icon: <i class="devicon-materialui-plain colored"></i>,

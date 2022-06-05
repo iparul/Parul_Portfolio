@@ -27,11 +27,12 @@ export const ProjectData = [
   },
   {
     id: 3,
-    title: "Portfolio",
+    title:
+      "In this Portfolio website i have mention what i have done so far and what type of projects i have done so far.",
     about: "In Portfolio ",
     tags: ["reactjs", "HTML", "CSS"],
     demo: "",
-    github: "https://github.com/iparul/Amazon-Clone",
+    github: "https://github.com/iparul/Parul_Portfolio",
     image: img3,
   },
   {

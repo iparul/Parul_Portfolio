@@ -4,17 +4,17 @@ import img2 from "../../assets/linkedin (1).png";
 export const SocialData = [
   {
     platform: "LinkedIn",
-    link: "",
+    link: "https://www.linkedin.com/in/parul-gupta-3688a019a/",
     icon: img2,
   },
   {
     platform: "Mail",
-    link: "",
-    icon: img1,
+    link: "mailto:parulgupta262626@gmail.com",
+    icon: img,
   },
   {
     platform: "GitHub",
-    link: "",
-    icon: img,
+    link: "https://github.com/iparul",
+    icon: img1,
   },
 ];

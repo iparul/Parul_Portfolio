@@ -16,18 +16,21 @@ function Contact() {
         </div>
         <div className="download">
           <p className="download-text">Download my Resume</p>
-          <a
-            download
-            href={require("../../../assets/Parul_Resume(n).pdf").default}
-          >
+          <a download href={require("../../../assets/Parul_Resume(n).pdf")}>
             <div onClick={() => setIsOpen(!isOpen)}>
               {isOpen === false && (
-                <img src="https://akshaysaini.in/img/dwnld.png" />
+                <img
+                  src="https://akshaysaini.in/img/dwnld.png"
+                  className="imageEdit"
+                />
               )}
             </div>
             <div onClick={() => setIsOpen(!isOpen)}>
               {isOpen === true && (
-                <img src="https://akshaysaini.in/img/dwnld.gif" />
+                <img
+                  src="https://akshaysaini.in/img/dwnld.gif"
+                  className="imageEdit"
+                />
               )}
             </div>
           </a>

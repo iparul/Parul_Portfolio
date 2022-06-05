@@ -22,9 +22,13 @@ margin-top: -56px;
 }
 
 img{
-        display: inline-block;
-        vertical-align: middle;
         
+        
+}
+.footer-img{
+display: inline-block;
+    vertical-align: middle;
+    width: 100%;
 }
 
 @media only screen and (max-width: 64em)  {

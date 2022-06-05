@@ -25,6 +25,15 @@
     text-align: center;
 }
 
+.imageEdit{
+    width: 500px;
+        /* width of container */
+        height: 160px;
+        /* height of container */
+        object-fit: cover;
+        object-position: 20% 550%;
+}
+
 
 @media only screen and (max-width: 720px) {
   .contact-container{
