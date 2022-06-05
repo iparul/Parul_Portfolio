@@ -1,0 +1,33 @@
+.footer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: -56px;
+}
+
+.footTitle {
+    font-family: 'Sacramento', cursive;
+    text-transform: none;
+    font-weight: 400;
+    color: #41b0bf !important;
+    font-size: 3em !important;}
+
+    .alignCenter {
+        text-align: center;}
+
+.madewithlove{
+    color: #848484;
+    margin-top: -22px;
+}
+
+img{
+        display: inline-block;
+        vertical-align: middle;
+        
+}
+
+@media only screen and (max-width: 64em)  {
+    img{
+    width: 100%;}
+}
