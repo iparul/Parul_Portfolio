@@ -16,7 +16,7 @@ function Contact() {
         </div>
         <div className="download">
           <p className="download-text">Download my Resume</p>
-          <a download href={require("../../../assets/Parul_Resume(n).pdf")}>
+          <a download href={require("../../../assets/Parul_Resume.pdf")}>
             <div onClick={() => setIsOpen(!isOpen)}>
               {isOpen === false && (
                 <img
