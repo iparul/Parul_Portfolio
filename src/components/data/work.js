@@ -5,7 +5,7 @@ export const WorkData = [
     dateJoining: "12-11-2021",
     dateEnd: "28-02-2022",
     companyLogo: "https://clickvalley.in/Theme/img/logo.png",
-    work: "Working in click valley as a vue js developer",
+    work: "Created the interface and also improved the performance by 15% of CV-Project manager Dashboard using Vuejs on the frontend",
   },
   {
     company: "Nss Pvt Ltd",

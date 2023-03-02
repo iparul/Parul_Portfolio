@@ -10,6 +10,7 @@
 
 .picture {
   height: 420px;
+  border-radius: 29px
 }
 .about-info {
   font-size: 24px;
@@ -28,7 +29,9 @@
     align-items: center;
   }
   .picture {
-    height: 280px;
+    height: 249px;
+      margin-top: 16px;
+      border-radius: 29px
   }
   .about-info {
     font-size: 20px;

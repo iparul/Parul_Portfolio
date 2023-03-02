@@ -32,4 +32,7 @@
     .work-card {
         width: 100%;
     }
+        .work-logo {
+          width: 22%;
+        }
 }

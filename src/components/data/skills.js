@@ -28,6 +28,10 @@ export const SkillsData = [
         name: "CSS",
         icon: <i class="devicon-css3-plain colored"></i>,
       },
+      {
+        name: "React Native",
+        icon: <i class="devicon-react-plain colored"></i>,
+      },
     ],
   },
 ];

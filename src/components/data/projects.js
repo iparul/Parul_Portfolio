@@ -4,6 +4,7 @@ import img1 from "../../assets/news.png";
 import img2 from "../../assets/amazon.png";
 import img3 from "../../assets/portfolio.png";
 import img4 from "../../assets/resume.png";
+import img5 from "../../assets/clone.jpg";
 export const ProjectData = [
   {
     id: 1,
@@ -28,9 +29,9 @@ export const ProjectData = [
   },
   {
     id: 3,
-    title:
+    title: "MY Portfolio ",
+    about:
       "In this Portfolio website i have mention what i have done so far and what type of projects i have done so far.",
-    about: "In Portfolio ",
     tags: ["reactjs", "HTML", "CSS"],
     demo: "",
     github: "https://github.com/iparul/Parul_Portfolio",
@@ -55,5 +56,15 @@ export const ProjectData = [
     demo: "https://resumebuilder-9f657.web.app/",
     github: "https://github.com/iparul/resume_builder",
     image: img4,
+  },
+  {
+    id: 6,
+    title: "Inshorts Clone",
+    about:
+      "n Inshort Clone app user can see news related to business, entertainment, health , science and etc. User can also see country wise news. User can search news also there is night mode also in side setting",
+    tags: ["react native", "HTML", "CSS"],
+    demo: "",
+    github: "https://github.com/iparul/inshort-clone",
+    image: img5,
   },
 ];
